@@ -14,7 +14,9 @@ Installation
 # Clone the Repository
 
 git clone https://github.com/anttiluode/life2o2.git
+
 cd life2o2
+
 Create a Virtual Environment (Optional but Recommended)
 
 python -m venv venv
