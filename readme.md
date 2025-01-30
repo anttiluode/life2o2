@@ -1,5 +1,7 @@
 # Life2O2
 
+EDIT: Added code that also uses some spiking neurons. 
+
 Life2O2 is a multimodal system that integrates audio and video inputs with a Partial Differential Equation (PDE) based neural network to generate dynamic visualizations and audio outputs. Utilizing real-time data from your microphone and webcam, Life2O2 processes the information through a neural PDE framework, offering an interactive and immersive experience.
 
 # Features
