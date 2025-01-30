@@ -13,27 +13,20 @@ Installation
 
 # Clone the Repository
 
-bash
-Copy
 git clone https://github.com/anttiluode/life2o2.git
 cd life2o2
 Create a Virtual Environment (Optional but Recommended)
 
-bash
-Copy
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install Dependencies
 
-Copy
 pip install -r requirements.txt
-Usage
 
 # Run the Application
 
-css
-Copy
 python main.py
+
 Configure Devices
 
 Upon launching, a GUI will appear allowing you to select your audio input/output devices and webcam index.
