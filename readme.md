@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 # Run the Application
 
-python main.py
+python life2o2.py
 
 Configure Devices
 
