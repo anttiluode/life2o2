@@ -1,0 +1,5 @@
+numpy
+torch
+sounddevice
+opencv-python
+matplotlib
